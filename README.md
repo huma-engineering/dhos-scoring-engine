@@ -1,3 +1,6 @@
+# Announcement :loudspeaker: 
+
+This repository is transferred from [gdm-SynseneHealth](https://github.com/sensynehealth/dhos-scoring-engine) to Huma organisation as part of change in asset ownership 
 # dhos-scoring-engine
 
 A node package used to provide a 'score' response to incoming observation data. Returns scores for:
